@@ -24,4 +24,5 @@
 // unshift
 let num = [1,2,3,4,5,6,7]
 let r = num.unshift(11)
+num.indexOf(4)
 console.log(num,r);
